@@ -6,7 +6,7 @@
 		"name": "Zerone Vu"
 	}],
 	"autoload": {
-		"psr-4": {"": "src/"}
+		"psr-4": {"Datalib\\Mysql2i\\": "src/Datalib/Mysql2i.php"}
     },
 	"require": {
 		"php": "^7.0"

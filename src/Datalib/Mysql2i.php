@@ -1,8 +1,8 @@
 <?php
 
-namespace mysql2i;
+namespace Datalib;
 
-class mysql2i
+class Mysql2i
 {
 
     public static $currObj;
