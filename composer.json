@@ -1,12 +1,13 @@
 {
 	"name": "zeronevu/mysql2i",
 	"description": "Adapter to provide mysql interface on mysqli for php7",
+	"type": "project",
 	"license": "WTFPL",
 	"authors": [{
 		"name": "Zerone Vu"
 	}],
 	"autoload": {
-		"psr-4": {"Datalib\\Mysql2i\\": "src/Datalib/Mysql2i.php"}
+		"psr-4": {"Datalib\\": "src"}
     },
 	"require": {
 		"php": "^7.0"
