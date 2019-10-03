@@ -7,7 +7,9 @@
 		"name": "Zerone Vu"
 	}],
 	"autoload": {
-		"psr-4": {"Datalib\\": "src"}
+		"psr-4": {
+            "App\\": "app/"
+        }
     },
 	"require": {
 		"php": "^7.0"

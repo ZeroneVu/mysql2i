@@ -1,6 +1,6 @@
 <?php
 
-namespace Datalib;
+namespace App;
 
 class Mysql2i
 {
